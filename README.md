@@ -108,15 +108,17 @@ else:
 
 ## Sample Input and Output
 ### Linear Search output
-![output](/linear%20seacrh.png)
+![linear seacrh](https://github.com/Abishai95141/Search-Algorithm/assets/139335314/283c2ac2-ffe6-4389-92e5-ed0f2df2c0f3)
 
 ### Binary Search
-![output](/binary%20search%20p-1.png)
-![output](/binary%20search%20p-2.png)
+![binary search p-1](https://github.com/Abishai95141/Search-Algorithm/assets/139335314/19b9aa62-ce02-4676-9fdf-97f82b96d838)
+![binary search p-2](https://github.com/Abishai95141/Search-Algorithm/assets/139335314/e6c9c987-211e-416a-b9c9-daec09d6d1f7)
 
-## Binary Search
-![output](/binary%20recursive.png)
-![output](/binary%20search%20p-2.png)
+
+### Binary Search Recursive
+![binary recursive](https://github.com/Abishai95141/Search-Algorithm/assets/139335314/87c7b6c7-717c-4ebe-8f30-087953246500)
+![binary recursive -2](https://github.com/Abishai95141/Search-Algorithm/assets/139335314/a7d8e666-3c76-4e6b-8d71-c56b693e26f5)
+
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
